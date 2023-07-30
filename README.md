@@ -2,7 +2,7 @@
 ## 概要
 - Next.jsのAppRouterでAuth0のRBACを実装するためのテストコード。
 - 2023年7月30日現時点で、Auth0のSDKはApp Routerに対応していないため、NextAuthを使用している。
-
+- Nodeのバージョン等は「Volta」で管理している
 
 ## ローカルの環境変数（記入中）
 | KEY                 | Value(example)                           |

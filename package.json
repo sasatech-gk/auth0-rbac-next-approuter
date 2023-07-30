@@ -8,6 +8,10 @@
     "start": "next start",
     "lint": "next lint"
   },
+  "volta": {
+    "node": "18.17.0",
+    "npm": "9.6.7"
+  },
   "dependencies": {
     "@types/node": "20.4.5",
     "@types/react": "18.2.17",
